@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|c:\\users\\lms5\\source\\repos\\clientwebcam\\clientwebcam\\measuring.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|solutionrelative:clientwebcam\\measuring.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|c:\\users\\lms5\\source\\repos\\clientwebcam\\clientwebcam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|solutionrelative:clientwebcam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|c:\\users\\lms5\\source\\repos\\clientwebcam\\clientwebcam\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|solutionrelative:clientwebcam\\model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|c:\\users\\lms5\\source\\repos\\clientwebcam\\clientwebcam\\measuring.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|solutionrelative:clientwebcam\\measuring.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|c:\\users\\lms5\\source\\repos\\clientwebcam\\clientwebcam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{91170FDA-CDDE-4DCE-A352-DAA7DCC7F542}|ClientWebCam\\ClientWebCam.csproj|solutionrelative:clientwebcam\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Model\\Member.cs",
+              "RelativeDocumentMoniker": "ClientWebCam\\Model\\Member.cs",
+              "ToolTip": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Model\\Member.cs",
+              "RelativeToolTip": "ClientWebCam\\Model\\Member.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAywEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:49:24.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Measuring.xaml",
+              "DocumentMoniker": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Measuring.xaml",
+              "RelativeDocumentMoniker": "ClientWebCam\\Measuring.xaml",
+              "ToolTip": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Measuring.xaml",
+              "RelativeToolTip": "ClientWebCam\\Measuring.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T00:29:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Measuring.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Measuring.xaml.cs",
+              "RelativeDocumentMoniker": "ClientWebCam\\Measuring.xaml.cs",
+              "ToolTip": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\Measuring.xaml.cs",
+              "RelativeToolTip": "ClientWebCam\\Measuring.xaml.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwG8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T00:28:22.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClientWebCam\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\MainWindow.xaml",
+              "RelativeToolTip": "ClientWebCam\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T06:05:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientWebCam\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lms5\\source\\repos\\ClientWebCam\\ClientWebCam\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClientWebCam\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:41:15.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
